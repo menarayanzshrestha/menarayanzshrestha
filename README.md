@@ -1,5 +1,3 @@
-### Hi there, I am Narayan Shrestha 👋
-
 <h1 align="center">Hi 👋, I'm Narayan Shrestha</h1>
 <h3 align="center">A passionate software engineer from Nepal</h3>
 
