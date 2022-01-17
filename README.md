@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://dev.to/menarayanzshrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="menarayanzshrestha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/narayan-shrestha-965274177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narayan-shrestha-965274177" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/narayan-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="narayan-shrestha" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10721322/narayan-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="narayan-shrestha" height="30" width="40" /></a>
 </p>
 
 
