@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menarayanzshrestha&label=Profile%20views&color=0e75b6&style=flat" alt="menarayanzshrestha" /> </p>
 
-- 🌱 I’m currently learning **DSA**, **DevOps**
+- 🌱 I’m currently learning **Blockchain**
 
 - 💬 Ask me about **tech**
 
