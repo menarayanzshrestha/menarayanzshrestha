@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menarayanzshrestha&label=Profile%20views&color=0e75b6&style=flat" alt="menarayanzshrestha" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **tech**
 
@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://dev.to/menarayanzshrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="menarayanzshrestha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/narayan-shrestha-965274177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narayan-shrestha-965274177" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/narayan-shrestha-965274177](https://medium.com/@benarayanz)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="narayan-shrestha-medium" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
