@@ -8,7 +8,7 @@
 - 💬 Ask me about **tech**
 
 - 📫 How to reach me **benarayanz@gmail.com** <br/>
-<a href="https://link.narayanstha.com.np" target="blank">link.narayanstha.com.np</a>
+<a href="https://narayanstha.com.np" target="blank">narayanstha.com.np</a> | <a href="https://link.narayanstha.com.np" target="blank">link.narayanstha.com.np</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
